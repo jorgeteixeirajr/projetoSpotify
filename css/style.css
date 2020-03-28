@@ -2,14 +2,14 @@ html,
 body,
 #home {
   height: 100%;
+  overflow-x: hidden;
 }
 
 body {
-  background: url(../assets/capa.png),
-    url(../assets/ruido.png),
+  background: url(../assets/capa.png), url(../assets/ruido.png),
     linear-gradient(50deg, #ff4169, #7c26f8);
   background-attachment: fixed;
-  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-family: "Helvetica", "Arial", sans-serif;
 }
 
 /* Barra de navegação */
@@ -30,7 +30,7 @@ nav.navbar-transparente {
 
 .navbar-light .navbar-toggler {
   color: rgba(0, 0, 0, 0.5);
-  border-color: rgba(255, 255, 255, .5);
+  border-color: rgba(255, 255, 255, 0.5);
 }
 
 .divisor {
@@ -72,12 +72,61 @@ nav.navbar-transparente {
   color: black;
 }
 
+/* Estrutura de conteudos */
+#servicos {
+  background: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#servicos h2,
+#servicos h3 {
+  color: #7c25f8;
+}
+
+#recursos h2,
+#recursos p {
+  color: #fff;
+}
+
+#recursos h3 {
+  color: #9bf0e1;
+}
+
+#recursos {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.albuns {
+  padding: 10px 0;
+}
+
+.rotacionar {
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  transform: rotate(30deg);
+  padding-left: 80px;
+}
+
 /* Tipografia */
 h1 {
   font-weight: 900;
   letter-spacing: -0.05em;
   margin-bottom: 50px;
   color: white;
+}
+
+h2 {
+  font-size: 3em;
+  font-weight: 700;
+  letter-spacing: -0.05em;
+}
+
+h3 {
+  font-size: 2em;
+  font-weight: 700;
+  letter-spacing: -0.05em;
 }
 
 /* Extra small devices (portrait phones, less than 576px) */
