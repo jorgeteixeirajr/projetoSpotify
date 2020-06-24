@@ -1,8 +1,5 @@
-<h1 align="center">
-
 <img src="https://j.gifs.com/91oAMJ.gif">
 
-</h1>
 <br>
 
 <br>
