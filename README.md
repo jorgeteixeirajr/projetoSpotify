@@ -12,7 +12,11 @@
 
 Esse repositório tem por objetivo armazenar as informações obtidas no curso **Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos** do [Jamilton Damasceno](https://www.udemy.com/course/web-completo/) .
 
----
+<br>
+
+# 🎧 Projeto Spotify
+
+<p> O projeto clone Spotify foi utilizado como base para a aplicação dos conhecimentos no **Bootstrap4**, um site repleto de estilo e modernidade, alinhado com toda acessibilidade exigida.</p>
 
 <br>
 
