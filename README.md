@@ -1,4 +1,8 @@
-<img src="https://j.gifs.com/91oAMJ.gif">
+<h1 align="center" width="600px" height="500px">
+
+![spotify](https://user-images.githubusercontent.com/53981704/85634737-80a39880-b652-11ea-89b4-2296dec4a745.gif)
+
+</h1>
 
 <br>
 
